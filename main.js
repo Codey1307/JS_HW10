@@ -1,23 +1,3 @@
-// let AkaliPage = document.getElementById("akaliTab")
-// let AniviaPage = document.getElementById("aniviaTab")
-// let AniviaTitle = document.getElementById("aniviaTitle")
-// let DravenPage = document.getElementById("dravenTab")
-// let GarenPage = document.getElementById("garenTab")
-// let KatarinaPage = document.getElementById("katarinaTab")
-// let tabsContent = document.querySelector(".tabs-content")
-
-// AniviaTitle.addEventListener("click", () => {
-//     tabsContent.innerHTML = AniviaPage.innerHTML
-// })
-
-
-// let elements = document.querySelectorAll(".tabs-title")
-// let active = document.querySelector(".active")
-// for(let li of elements){
-// li.addEventListener("click", () => {
-//     li.classList.add("active");
-// })
-// }
 
 function openTab(evt, tabName) {
 let i, tabTitle, tabContent
